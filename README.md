@@ -17,7 +17,7 @@ Regras do Jogo:
   - Adiciona o valor rolado aos pontos
   - Escolhe rolar novamente os dados ou manter a pontuação atual e passar o turno
   
-O vencedor é o primeiro jogador que chegar ou ultrapassar 100 pontos
+O vencedor é o primeiro jogador que chegar ou ultrapassar 50 pontos
 
 Ex:
 
